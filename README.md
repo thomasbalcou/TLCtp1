@@ -1,14 +1,14 @@
 
 # TLC tp 1
 
-## Etape 1 et 2
+## Etapes 1 et 2
 
 Le repo contient le docker compose de l'étape 2 chargé de mettre en place un reverse proxy avec l'image Docker nginx "jwilder/nginx-proxy".  
 
 Cette image Docker est un conteneur Nginx qui agit en tant que reverse proxy pour les autres conteneurs Docker. Il gère la redirection automatique des requêtes HTTP vers les conteneurs associés en utilisant les en-têtes de l'hôte et les noms de domaine. Cela permet d'exécuter plusieurs applications sur un même serveur avec des URL distinctes sans avoir à configurer manuellement les réglages de proxy pour chaque application.
 
 
-## Capture d'écran du fonctionnement de cette image:
+## Captures d'écran du fonctionnement de cette image:
 
 ![App Screenshot](https://github.com/thomasbalcou/TLCtp1/blob/main/capture-ecran-reverseproxy.png)
 
