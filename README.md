@@ -10,9 +10,9 @@ Cette image Docker est un conteneur Nginx qui agit en tant que reverse proxy pou
 
 ## Capture d'écran du fonctionnement de cette image:
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/thomasbalcou/TLCtp1/blob/main/capture-ecran-reverseproxy.png)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/thomasbalcou/TLCtp1/blob/main/capture-ecran-reverseproxy2.png)
 
 ## Etape 3
 
